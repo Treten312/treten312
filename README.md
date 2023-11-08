@@ -8,7 +8,7 @@ Hello! I'm Treten, a programming enthusiast and college student on a journey to 
 </div>
     
 ## My Skill Set
-[![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js)](https://skillicons.dev)
 
 ## Connect with me
 <div>
